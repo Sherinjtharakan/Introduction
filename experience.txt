@@ -1,0 +1,2 @@
+Sherin Tharakan:
+In my journey with Java, I've developed foundational projects for my university coursework, leveraging its versatility and reliability to bring concepts to life. Additionally, in a professional setting, I've utilized Selenium with Java to automate tasks, streamlining workflows and enhancing productivity. These experiences have not only improved my Java skills but also illustrated its adaptability across educational and professional contexts.
